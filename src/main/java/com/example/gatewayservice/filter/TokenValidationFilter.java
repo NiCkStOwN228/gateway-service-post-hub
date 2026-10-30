@@ -27,4 +27,3 @@ public class TokenValidationFilter extends AbstractGatewayFilterFactory<TokenVal
     }
 }
 
-
